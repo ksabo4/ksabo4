@@ -9,5 +9,3 @@ I have completed multiple internships, in which I have gotten real-world experie
 I am very interested in Artificial Intelligence, taking a Machine Learning class this semester and studying algorithms on PyTorch and ScikitLearn.
 
 I hope to learn more about AI and find an internship in a related field.
-
-Key Skills: Python, C++, Java, Android App Development, Artificial Intelligence
